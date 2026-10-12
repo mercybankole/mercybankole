@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mercybankole/mercybankole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mercy Bankole
 
-Here are some ideas to get you started:
+### Cybersecurity | GRC | Identity & Access Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GRC](https://img.shields.io/badge/GRC-A66A8A?style=flat-square&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-865C86?style=flat-square&logoColor=white)
+![Risk Assessment](https://img.shields.io/badge/Risk%20Assessment-B8839C?style=flat-square&logoColor=white)
+![Access Governance](https://img.shields.io/badge/Access%20Governance-987A9C?style=flat-square&logoColor=white)
+
+[LinkedIn](https://www.linkedin.com/in/mercy-bankole-6b2a12224/) · [GitHub](https://github.com/mercybankole)
+
+</div>
+
+---
+
+## About Me
+
+I'm a cybersecurity professional building my career in governance, risk and compliance (GRC) and identity and access management (IAM). I have a bachelor's degree in Business Administration and postgraduate education in Cybersecurity Analytics and Digital Health from Mohawk College.
+
+I'm interested in assessing security risks, strengthening access controls, and helping organizations protect sensitive information.
+
+## Certifications
+
+| Certification | Status |
+| --- | --- |
+| Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) | Earned |
+| Microsoft Certified: Azure Fundamentals (AZ-900) | Earned |
+
+## Tools & Knowledge
+
+| Area | Tools and frameworks |
+| --- | --- |
+| Identity & access | Active Directory, Microsoft Entra ID, Okta, PowerShell |
+| Security frameworks studied | NIST CSF, CIS Controls, ISO/IEC 27001 |
+| Data analysis | Python, Pandas, NumPy, Jupyter Notebook, Google Colab |
+
+## Portfolio
+
+Projects below are planned. Completed work will be linked here as it is published.
+
+| GRC projects | IAM projects |
+| --- | --- |
+| Security Policy Suite | Active Directory Lab |
+| ISO 27001 Gap Assessment | Identity Lifecycle Automation |
+| NIST Risk Assessment & Risk Register | Access Reviews & IAM Audit |
+
+---
+
+<div align="center">
+
+[Connect on LinkedIn](https://www.linkedin.com/in/mercy-bankole-6b2a12224/)
+
+</div>
