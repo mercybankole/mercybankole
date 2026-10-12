@@ -38,12 +38,10 @@ I'm interested in assessing security risks, strengthening access controls, and h
 
 ## Portfolio
 
-Projects below are planned. Completed work will be linked here as it is published.
-
 | GRC projects | IAM projects |
 | --- | --- |
-| Security Policy Suite | Active Directory Lab |
-| ISO 27001 Gap Assessment | Identity Lifecycle Automation |
+| Security Policy Suite | [Active Directory & RBAC Lab](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/01-active-directory-rbac) |
+| ISO 27001 Gap Assessment | Identity Lifecycle Automation (in progress) |
 | NIST Risk Assessment & Risk Register | Access Reviews & IAM Audit |
 
 ---
