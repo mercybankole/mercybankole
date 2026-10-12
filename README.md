@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome, Here's what Mercy is building 🛡️
+# Hi, I'm Mercy Bankole here's what I'm building.
 
 ### Cybersecurity | GRC | Identity & Access Management
 
