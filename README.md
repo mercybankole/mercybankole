@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mercy Bankole
+# Welcome, Here's what Mercy is building 🛡️
 
 ### Cybersecurity | GRC | Identity & Access Management
 
@@ -9,7 +9,7 @@
 ![Risk Assessment](https://img.shields.io/badge/Risk%20Assessment-B8839C?style=flat-square&logoColor=white)
 ![Access Governance](https://img.shields.io/badge/Access%20Governance-987A9C?style=flat-square&logoColor=white)
 
-[LinkedIn](https://www.linkedin.com/in/mercy-bankole-6b2a12224/) · [GitHub](https://github.com/mercybankole)
+[LinkedIn](https://www.linkedin.com/in/mercy-bankole-6b2a12224/)
 
 </div>
 
@@ -28,7 +28,7 @@ I'm interested in assessing security risks, strengthening access controls, and h
 | Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) | Earned |
 | Microsoft Certified: Azure Fundamentals (AZ-900) | Earned |
 
-## Tools & Knowledge
+## Technical skills & Frameworks
 
 | Area | Tools and frameworks |
 | --- | --- |
