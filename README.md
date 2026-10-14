@@ -42,7 +42,7 @@ I'm interested in assessing security risks, strengthening access controls, and h
 | --- | --- |
 | Security Policy Suite | [Active Directory & RBAC Lab](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/01-active-directory-rbac) |
 | ISO 27001 Gap Assessment | [PowerShell User Lifecycle Management](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/02-user-lifecycle-management) |
-| NIST Risk Assessment & Risk Register | Access Reviews & IAM Audit |
+| NIST Risk Assessment & Risk Register | [Access Reviews & IAM Audit](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/03-access-reviews-iam-audit) |
 
 ---
 
