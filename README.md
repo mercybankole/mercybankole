@@ -17,9 +17,9 @@
 
 ## About Me
 
-I'm a cybersecurity professional building my career in governance, risk and compliance (GRC) and identity and access management (IAM). I have a bachelor's degree in Business Administration and postgraduate education in Cybersecurity Analytics and Digital Health from Mohawk College.
+I'm focused on identity and access management and governance, risk and compliance. In my Asterbridge lab, I've configured Active Directory permissions, automated account changes with PowerShell, reviewed access against role requirements, and connected AD to Okta through Azure. I've tested how access is granted, changed and removed, then documented the results and limitations.
 
-I'm interested in assessing security risks, strengthening access controls, and helping organizations protect sensitive information.
+I have a bachelor's degree in Business Administration and postgraduate education in Cybersecurity Analytics and Digital Health from Mohawk College. My coursework also included vulnerability assessment and mapping security requirements to NIST CSF and ISO/IEC 27001. I'm interested in roles involving access governance, control testing and security risk assessment.
 
 ## Certifications
 
@@ -36,14 +36,20 @@ I'm interested in assessing security risks, strengthening access controls, and h
 | Security frameworks studied | NIST CSF, CIS Controls, ISO/IEC 27001 |
 | Data analysis | Python, Pandas, NumPy, Jupyter Notebook, Google Colab |
 
-## Portfolio
+## Identity and Access Management Projects
 
-| GRC projects | IAM projects |
-| --- | --- |
-| Security Policy Suite | [Active Directory & RBAC Lab](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/01-active-directory-rbac) |
-| ISO 27001 Gap Assessment | [PowerShell User Lifecycle Management](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/02-user-lifecycle-management) |
-| NIST Risk Assessment & Risk Register | [Access Reviews & IAM Audit](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/03-access-reviews-iam-audit) |
-|  | [Hybrid Active Directory & Okta IAM Lab](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/04-okta-hybrid-iam) |
+- [Active Directory & Role-Based Access Control](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/01-active-directory-rbac): Created employee accounts and security groups, configured clinic-specific folder permissions, and tested allowed and denied file access.
+- [PowerShell User Lifecycle Management](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/02-user-lifecycle-management): Scripted onboarding, clinic transfers and offboarding in AD, then verified permissions and sign-in results.
+- [Active Directory Access Reviews & IAM Audit](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/03-access-reviews-iam-audit): Reviewed nine accounts against role requirements, found an intentional excess-access exception, tested its impact, and verified remediation.
+- [Hybrid Active Directory & Okta IAM](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/04-okta-hybrid-iam): Connected on-premises AD to Okta through an Azure-hosted agent; tested user and group imports, delegated authentication, application assignments, access revocation and account reactivation.
+
+## Governance, Risk and Compliance Projects
+
+Planned projects:
+
+- Security Policy Suite: Develop sample policies covering responsibilities, access management and review requirements.
+- ISO 27001 Gap Assessment: Review a simulated organization's controls against selected ISO/IEC 27001 requirements and document gaps.
+- NIST Risk Assessment & Risk Register: Assess a simulated organization's security risks and record likelihood, impact and proposed treatments.
 
 ---
 
