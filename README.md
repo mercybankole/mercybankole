@@ -43,6 +43,8 @@ I have a bachelor's degree in Business Administration and postgraduate education
 - [Active Directory Access Reviews & IAM Audit](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/03-access-reviews-iam-audit): Reviewed nine accounts against role requirements, found an intentional excess-access exception, tested its impact, and verified remediation.
 - [Hybrid Active Directory & Okta IAM](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/04-okta-hybrid-iam): Connected on-premises AD to Okta through an Azure-hosted agent; tested user and group imports, delegated authentication, application assignments, access revocation and account reactivation.
 
+- [Non-Human Identity & Service Account Governance](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/05-non-human-identity-governance): Reviewed three service identities, identified a simulated orphaned account, checked dependencies and verified access removal.
+
 ## Governance, Risk and Compliance Projects
 
 Planned projects:
