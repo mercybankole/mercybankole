@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Mercy Bankole here's what I'm building.
+# Hi, I'm Mercy Bankole — here's what I'm building.
 
-### Cybersecurity | GRC | Identity & Access Management
+### Identity & Access Management | IT Support | GRC
 
 ![GRC](https://img.shields.io/badge/GRC-A66A8A?style=flat-square&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-865C86?style=flat-square&logoColor=white)
@@ -17,9 +17,11 @@
 
 ## About Me
 
-I'm focused on identity and access management and governance, risk and compliance. In my Asterbridge lab, I've configured Active Directory permissions, automated account changes with PowerShell, reviewed access against role requirements, and connected AD to Okta through Azure. I've tested how access is granted, changed and removed, then documented the results and limitations.
+I'm building my skills in identity and access management and IT support, with an interest in governance, risk and compliance. My background is in customer and application support, where I've investigated login and transaction issues, worked with technical teams on escalations, and helped users understand unfamiliar systems.
 
-I have a bachelor's degree in Business Administration and postgraduate education in Cybersecurity Analytics and Digital Health from Mohawk College. My coursework also included vulnerability assessment and mapping security requirements to NIST CSF and ISO/IEC 27001. I'm interested in roles involving access governance, control testing and security risk assessment.
+In my Asterbridge lab, I've configured Active Directory permissions, automated onboarding and offboarding with PowerShell, reviewed access against role requirements, and connected AD to Okta through Azure. I've also used Jira Service Management to document support cases involving application access, user onboarding, MFA and privileged-access requests. I test changes and document what worked, what didn't, and what I learned.
+
+I have a bachelor's degree in Business Administration and postgraduate certificates in Cybersecurity Analytics and Digital Health from Mohawk College. I'm interested in roles involving IT support, identity administration and access governance.
 
 ## Certifications
 
@@ -28,30 +30,29 @@ I have a bachelor's degree in Business Administration and postgraduate education
 | Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) | Earned |
 | Microsoft Certified: Azure Fundamentals (AZ-900) | Earned |
 
-## Technical skills & Frameworks
+## Technical Skills & Frameworks
 
-| Area | Tools and frameworks |
+| Area | Tools and experience |
 | --- | --- |
-| Identity & access | Active Directory, Microsoft Entra ID, Okta, PowerShell |
-| Security frameworks studied | NIST CSF, CIS Controls, ISO/IEC 27001 |
+| Identity & access | Active Directory, Okta, PowerShell, user lifecycle management, security groups, RBAC, access reviews |
+| IT & application support | Jira Service Management (lab), Windows 10/11, Windows Server 2022 (lab), troubleshooting, incident documentation, technical escalation |
+| Security & governance | Service account reviews, least privilege, Microsoft Entra ID concepts; NIST CSF, CIS Controls, ISO/IEC 27001 (studied) |
 | Data analysis | Python, Pandas, NumPy, Jupyter Notebook, Google Colab |
 
-## Identity and Access Management Projects
+## Identity & Access Management Projects
 
-- [Active Directory & Role-Based Access Control](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/01-active-directory-rbac): Created employee accounts and security groups, configured clinic-specific folder permissions, and tested allowed and denied file access.
-- [PowerShell User Lifecycle Management](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/02-user-lifecycle-management): Scripted onboarding, clinic transfers and offboarding in AD, then verified permissions and sign-in results.
-- [Active Directory Access Reviews & IAM Audit](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/03-access-reviews-iam-audit): Reviewed nine accounts against role requirements, found an intentional excess-access exception, tested its impact, and verified remediation.
-- [Hybrid Active Directory & Okta IAM](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/04-okta-hybrid-iam): Connected on-premises AD to Okta through an Azure-hosted agent; tested user and group imports, delegated authentication, application assignments, access revocation and account reactivation.
+These projects use fictional employee accounts in an isolated Asterbridge Care Technologies lab. The configurations, tests and evidence are documented in the repository.
 
-- [Non-Human Identity & Service Account Governance](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/05-non-human-identity-governance): Reviewed three service identities, identified a simulated orphaned account, checked dependencies and verified access removal.
+- [01. Active Directory & Role-Based Access Control](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/01-active-directory-rbac): Created employee accounts and security groups, configured folder permissions, and tested allowed and denied access.
+- [02. PowerShell User Lifecycle Management](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/02-user-lifecycle-management): Automated onboarding, clinic transfers and offboarding, then tested access and sign-in changes.
+- [03. Active Directory Access Reviews & IAM Audit](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/03-access-reviews-iam-audit): Reviewed nine accounts, detected an excess-access test case, and verified that removing the permission blocked access.
+- [04. Hybrid Active Directory & Okta IAM](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/04-okta-hybrid-iam): Connected AD to Okta through an Azure-hosted agent and tested imports, delegated authentication, group-based assignments and account reactivation.
+- [05. Non-Human Identity & Service Account Governance](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/05-non-human-identity-governance): Reviewed service accounts, investigated a simulated orphaned identity, checked dependencies and verified access removal.
+- [06. IT Service Management & IAM Support Simulation](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/06-it-service-management-iam-support): Used Jira, AD and Okta to document application access, onboarding, Okta Verify recovery and privileged-access support cases.
 
-## Governance, Risk and Compliance Projects
+## Governance, Risk & Compliance
 
-Planned projects:
-
-- Security Policy Suite: Develop sample policies covering responsibilities, access management and review requirements.
-- ISO 27001 Gap Assessment: Review a simulated organization's controls against selected ISO/IEC 27001 requirements and document gaps.
-- NIST Risk Assessment & Risk Register: Assess a simulated organization's security risks and record likelihood, impact and proposed treatments.
+I'm also building on my cybersecurity coursework in risk assessment and security controls, including NIST CSF and ISO/IEC 27001. Future project ideas include a security policy suite, an ISO 27001 gap assessment and a risk register.
 
 ---
 
