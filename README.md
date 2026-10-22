@@ -19,7 +19,7 @@
 
 I'm building my skills in identity and access management and IT support, with an interest in governance, risk and compliance. My background is in customer and application support, where I've investigated login and transaction issues, worked with technical teams on escalations, and helped users understand unfamiliar systems.
 
-In my Asterbridge lab, I've configured Active Directory permissions, automated onboarding and offboarding with PowerShell, reviewed access against role requirements, and connected AD to Okta through Azure. I've also used Jira Service Management to document support cases involving application access, user onboarding, MFA and privileged-access requests. I test changes and document what worked, what didn't, and what I learned.
+In my Asterbridge lab, I've configured Active Directory permissions, automated onboarding and offboarding with PowerShell, reviewed access against role requirements, and connected AD to Okta through Azure. I've also used Jira Service Management to document access and MFA support cases, create a 10-ticket practice queue, and work through prioritization based on impact, urgency and security risk. I test changes and document what worked, what didn't, and what I learned.
 
 I have a bachelor's degree in Business Administration and postgraduate certificates in Cybersecurity Analytics and Digital Health from Mohawk College. I'm interested in roles involving IT support, identity administration and access governance.
 
@@ -48,7 +48,7 @@ These projects use fictional employee accounts in an isolated Asterbridge Care T
 - [03. Active Directory Access Reviews & IAM Audit](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/03-access-reviews-iam-audit): Reviewed nine accounts, detected an excess-access test case, and verified that removing the permission blocked access.
 - [04. Hybrid Active Directory & Okta IAM](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/04-okta-hybrid-iam): Connected AD to Okta through an Azure-hosted agent and tested imports, delegated authentication, group-based assignments and account reactivation.
 - [05. Non-Human Identity & Service Account Governance](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/05-non-human-identity-governance): Reviewed service accounts, investigated a simulated orphaned identity, checked dependencies and verified access removal.
-- [06. IT Service Management & IAM Support Simulation](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/06-it-service-management-iam-support): Used Jira, AD and Okta to document application access, onboarding, Okta Verify recovery and privileged-access support cases.
+- [06. IT Service Management, IAM Support & Ticket Triage](https://github.com/mercybankole/asterbridge-iam-lab/tree/main/projects/06-it-service-management-iam-support): Investigated four AD/Okta support cases and created 10 more Jira tickets to practice queue prioritization, SLAs, ownership, escalation and customer updates.
 
 ## Governance, Risk & Compliance
 
